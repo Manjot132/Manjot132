@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manjot Singh
 - 👀 I’m interested in WEB DEV
-- 🌱 I’m currently learning Backend Frameworks
+- 🌱 I’m currently learning Backend Frameworks (.NET core/Ruby on Rails)
 - 💞️ I’m looking to collaborate on Full stack Projects
 - 📫 To reach me ogeralt78@gmail.com
 
