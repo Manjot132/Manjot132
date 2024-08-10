@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manjot Singh
-- 👀 I’m interested in WEB DEV
-- 🌱 I’m currently learning Backend Frameworks (.NET/Django/Spring)
-- 💞️ I’m looking to collaborate on Full stack Projects
+- 👀 I’m a socialist and a communist
+- 🌱 I know full stack
+- 💞️ working to empower socialist structures
 - 📫 To reach me ogeralt78@gmail.com
 
 
